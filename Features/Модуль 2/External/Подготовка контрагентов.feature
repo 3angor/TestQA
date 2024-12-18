@@ -1,5 +1,7 @@
 ﻿#language: ru
-@tree
+@ExportScenarios
+@IngnoreOnCIMainVuild
+
 
 Функционал: Загрузка контрагентов
 
